@@ -1,0 +1,1 @@
+var randomNum = Math.floor
